@@ -27,8 +27,21 @@ export default {
 <style>
     .display-3 {
         margin-top: 10rem;
+        color: white;
+        font-weight: 500;
     }
 
+    .lead {
+      color: #225A93;  
+      font-weight: 500;
+    }
+
+    p {
+        color: #16B0D4;
+    }
+
+    /* #225A93 */
+    
     .btn-primary {
         background: #16B0D4;
         margin-left: 0.5rem;

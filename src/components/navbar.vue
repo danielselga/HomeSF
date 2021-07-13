@@ -12,8 +12,8 @@
         <b-nav-item href="#" >Sou Vendedor</b-nav-item>
       </b-navbar-nav>    
     </b-collapse>
-      <b-button pill>LogIn</b-button>
-      <b-button pill>SignIn</b-button>
+      <b-button >LogIn</b-button>
+      <b-button >SignIn</b-button>
   </b-navbar>
 </div>
 </template>
