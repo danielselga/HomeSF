@@ -1,9 +1,9 @@
 <template>  
 <div>
-    <b-container>
+    <b-container >
         <b-row>
             <b-col>
-                <img src="../assets/heroBimg.svg" alt="">
+                <img data-aos="fade-right" src="../assets/heroBimg.svg" alt="">
             </b-col>
             <b-col>
                 <b-jumbotron header="Não deixe dinheiro na mesa!" lead="Escale sua operação comercial com nosso serviço de Sales as a Service">
@@ -38,8 +38,6 @@ export default {
     p {
         color: #16B0D4;
     }
-
-    /* #225A93 */
     
     .btn-primary {
         background: #16B0D4;

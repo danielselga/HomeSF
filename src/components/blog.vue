@@ -3,7 +3,7 @@
     <b-container>
         <b-row>
           <h1>Artigos sobre operação de vendas</h1>
-            <b-col v-for="(info) in infos" :key="info" style="padding: 1rem;">
+            <b-col v-for="info in infos" v-bind:key="info" style="padding: 1rem;">
                 <img style="margin: auto; border-radius: 5px" :src="info.imageUrl" alt="">
                     <h1>{{info.titulo}}</h1>
                     <p>{{info.p}}</p>
@@ -43,6 +43,5 @@ export default {
         margin-top: 1rem;
     }
 
-    
 </style>
 

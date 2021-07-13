@@ -3,12 +3,12 @@
     <b-container>
         <b-row>
             <b-col>
-                <img src="../assets/academy.svg" alt="">
+                <img data-aos="fade-right" src="../assets/academy.svg" alt="">
             </b-col>
             <b-col>
-                <b-jumbotron header="Bem-vindo a SalesFarm Academy" lead="">
+                <b-jumbotron data-aos="fade-up" header="Bem-vindo a SalesFarm Academy" lead="">
                     <p>Explore nossa Universidade do Vendedor com treinamentos ao vivo e mais de 50h gravadas totalmente gratuito.</p>
-                    <p>Faça seu cadastro e tenha acesso a conteúdos dos maiores nomes das vendas, como: Fabio Oliveira, Thiago Concer, Gustavo Malavota, dentre outros.</p>
+                        <p>Faça seu cadastro e tenha acesso a conteúdos dos maiores nomes das vendas, como: Fabio Oliveira, Thiago Concer, Gustavo Malavota, dentre outros.</p>
                     <b-button >Cadastre-se para ter acesso as aulas</b-button>
                 </b-jumbotron>
             </b-col>

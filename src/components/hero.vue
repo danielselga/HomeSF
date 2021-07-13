@@ -10,7 +10,7 @@
                 </b-jumbotron>
             </b-col>
             <b-col>
-                <img src="../assets/heroImg.svg" alt="">
+                <img data-aos="fade-left" src="../assets/heroImg.svg" alt="">
             </b-col>
         </b-row>
         

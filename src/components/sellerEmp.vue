@@ -2,17 +2,17 @@
     <b-container>
         <b-row>
             <b-col style="padding: 1rem;">
-                <img style="margin: auto;" src="../assets/empresario.svg" alt="">
-                <h1>Sou Empresário</h1>
-                <p>Ajudamos dezenas de empresas a estruturar e operar vendas, garantindo previsão de faturamento. Entre em contato e faça um diagnóstico gratuito do nível de maturidade de sua operação comercial.</p>
-                <b-button >Fale com um consultor</b-button>
+                <img style="margin: auto;" src="../assets/empresario.svg" data-aos="fade-right" alt="">
+                <h1 data-aos="fade-up">Sou Empresário</h1>
+                <p data-aos="fade-up">Ajudamos dezenas de empresas a estruturar e operar vendas, garantindo previsão de faturamento. Entre em contato e faça um diagnóstico gratuito do nível de maturidade de sua operação comercial.</p>
+                <b-button data-aos="fade-right">Fale com um consultor</b-button>
             </b-col>
 
             <b-col style="padding: 1rem;">
-                <img class="img" src="../assets/seller.svg" alt="">
-                <h1>Sou Vendedor</h1>
-                <p>Ajudamos dezenas de empresas a estruturar e operar vendas, garantindo previsão de faturamento. Entre em contato e faça um diagnóstico gratuito do nível de maturidade de sua operação comercial.</p>
-                <b-button >Cadastre-se para vender</b-button>
+                <img data-aos="fade-left" class="img" src="../assets/seller.svg" alt="">
+                <h1 data-aos="fade-up">Sou Vendedor</h1>
+                <p data-aos="fade-up">Ajudamos dezenas de empresas a estruturar e operar vendas, garantindo previsão de faturamento. Entre em contato e faça um diagnóstico gratuito do nível de maturidade de sua operação comercial.</p>
+                <b-button data-aos="fade-right">Cadastre-se para vender</b-button>
             </b-col>
 
         </b-row>

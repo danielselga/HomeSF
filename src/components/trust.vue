@@ -30,7 +30,7 @@ export default {
 }
 
 .container-fluid {
-    background: #1d5388;
+    background: #16b1d475;
   
 }
 

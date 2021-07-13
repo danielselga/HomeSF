@@ -1,9 +1,9 @@
 <template>
-    <b-conntaine>
+ 
         <div style="background: black; margin-top: 3rem; display: flex; justify-content: center;">
-            <img src="../assets/blackbelt.png" alt="">    
+            <img data-aos="fade-left" src="../assets/blackbelt.png" alt="">    
         </div>
-    </b-conntaine>    
+    
 </template>
 
 <script>
@@ -11,7 +11,3 @@ export default {
     
 }
 </script>
-
-<style>
-
-</style>
