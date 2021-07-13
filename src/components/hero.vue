@@ -24,7 +24,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
     .display-3 {
         margin-top: 10rem;
         color: white;
@@ -32,7 +32,7 @@ export default {
     }
 
     .lead {
-      color: #225A93;  
+      color: #16B0D4 !important;  
       font-weight: 500;
     }
 
@@ -40,12 +40,19 @@ export default {
         color: #16B0D4;
     }
 
-    /* #225A93 */
+    .element.style {
+        margin-top: 3rem;
+    }
+    
     
     .btn-primary {
         background: #16B0D4;
         margin-left: 0.5rem;
         color: #2D3645;
         border: none;
+    }
+
+    .col{
+        margin-top: -4rem;
     }
 </style>

@@ -1,6 +1,5 @@
 <template>
-      <div>
-  <b-navbar class="shadow-sm" toggleable="lg" type="light" sticky>
+  <b-navbar class="shadow-sm sticky-top" toggleable="lg" type="light" >
     <img class="logo" src="../assets/logo.jpeg"><img>
 
     <b-navbar-brand href="">Sales Farm</b-navbar-brand>
@@ -15,7 +14,6 @@
       <b-button >LogIn</b-button>
       <b-button >SignIn</b-button>
   </b-navbar>
-</div>
 </template>
 
 <script>
@@ -67,6 +65,7 @@
 
   .navbar {
     background-color: #2D3645;
+    padding-inline: 15rem;
   }
 
    @media (max-width: 1024px) {
