@@ -1,6 +1,6 @@
-# Teste Home SalesFarm
+# Home SalesFarm
 
-> Teste desenvolvido para candidatura na salesfarm
+> Desenvolvido para salesfarm.
 
 ## Build Setup
 
