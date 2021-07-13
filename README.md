@@ -1,6 +1,6 @@
-# teste
+# Teste Home SalesFarm
 
-> A Vue.js project
+> Teste desenvolvido para candidatura na salesfarm
 
 ## Build Setup
 
