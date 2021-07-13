@@ -1,6 +1,6 @@
-# Home SalesFarm
+# Home SF
 
-> Desenvolvido para salesfarm.
+> Desenvolvido por Daniel Selga
 
 ## Build Setup
 
